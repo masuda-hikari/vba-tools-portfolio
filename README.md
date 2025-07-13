@@ -1,2 +1,3 @@
 # vba-tools-portfolio
 VBAによる業務自動化ツール群（再現コードによる構成）
+VBA macro tools designed to automate complex Excel tasks.(Reconstructed samples)
